@@ -6,7 +6,13 @@ Introducción al desarrollo web desde el diseño (DNO096) es un Optativo de Prof
 
 ### Descripción:
 
-En el curso Introducción al desarrollo web desde el diseño, el estudiantado se aproximará a la descripción y programación de la cara visible de sitios y aplicaciones web. Por medio de una introducción práctico-teórica al dominio de HTML, CSS y JavaScript, cada estudiante podrá desarrollar, de manera autónoma, su primer sitio web profesional o prototipo avanzado de aplicación web. Para ello, se utilizarán metodologías como clase invertida, aprendizaje basado en proyectos y simulaciones. Los aprendizajes serán evaluados por medio de talleres de aplicación y un proyecto final.
+En el curso Introducción al desarrollo web desde el diseño, el estudiantado se aproximará a la descripción y programación de la cara visible de sitios y aplicaciones web. 
+
+Por medio de una introducción práctico-teórica al dominio de HTML, CSS y JavaScript, cada estudiante podrá desarrollar, de manera autónoma, su primer sitio web profesional o prototipo avanzado de aplicación web. 
+
+Para ello, se utilizarán metodologías como clase invertida, aprendizaje basado en proyectos y simulaciones. 
+
+Los aprendizajes serán evaluados por medio de talleres de aplicación y un proyecto final.
 
 - - - - - - - - - -
 

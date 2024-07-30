@@ -1,4 +1,4 @@
-### Introducción al desarrollo web desde el diseño → Clase 04
+### Introducción al desarrollo web desde el diseño → Clase 04 → 28/08/2024 
 
 # Conociendo y comprendiendo otras bibliotecas de JS
 

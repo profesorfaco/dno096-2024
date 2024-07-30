@@ -30,19 +30,9 @@ Y puedes tomar toda la página del navegador por el [Modelo de Objeto de Documen
 
 Con el DOM podemos manipular una página así como cuando *photoshopeamos* una imagen. Si capturaste una imagen con 3 elementos y agregas un cuarto *photoshopénadolo*, en ningún caso modificas el fenómeno capturado, pero todos podrán ver una imagen con 4 elementos. 
 
-Por la manipulación del DOM **podríamos encontrar inconcruencias entre** dos vista: la del **código fuente de la página** y la de los **elementos de la página**. Estirando la analogía: En el código fuente de la página ves el fenómeno tal como fue capturado, mientras que en la vista de elementos de la misma página está lo *photoshopeado* (lo que tenemos a la vista en toda la página del navegador).
+Por la manipulación del DOM **podríamos encontrar inconcruencias entre** dos vista: la del **código fuente de la página** y la de los **elementos de la página**. Estirando la analogía: En el código fuente de la página ves el fenómeno tal como fue capturado, mientras que en la vista de elementos de la misma página está lo *photoshopeado* a partir de datos o ciertas condiciones.
 
-Para que esta diferencia quede muy clara, aprovechen [este ejemplo](https://profesorfaco.github.io/dno037-2023-2/clase-02/ejemplo.html), donde pueden revisar las diferencias entre la vista del **código fuente de la página** y la de los **elementos de la página**. Noten que en el código fuente faltan contenidos que sí están en la visualización que ofrece el navegador y en los elementos de la página.
-
-Eso es así porque los contenidos depende de consultas programadas:
-
-- Consulta por el momento en que se carga la página, con el [constructor `Date()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Date)
-
-- Consulta a una [API *swiftie*](https://taylorswiftapi.onrender.com/get), con la función [loadJSON() de p5.js](https://p5js.org/es/reference/#/p5/loadJSON)
-
-La primera consulta nos permitirá indicar hora y minutos, para decidir por el saludo con [la sentencia `if...else`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/if...else). Y la segunda nos permitirá asomarnos por primera vez a [un JSON](https://taylorswiftapi.onrender.com/get).
-
-A propósito de asomarse a [un JSON](https://taylorswiftapi.onrender.com/get), conviene aclarar algunas cosas sobre datos en programación.
+Antes de continuar, conviene aclarar algunas cosas sobre datos en programación.
 
 Partamos con el número 18261884. 
 
@@ -123,26 +113,6 @@ La variable de nombre `e`, que contiene un arreglo, usa paréntesis cuadrado y c
 La variable de nombre `f`, que contiene un objeto, usa paréntesis de llave que en su interior contiene pares de `nombre:valor`. 
 
 Las variables de nombres `g` y `h` son mezclas de las anteriores.
-
-**Las variables de nombres `f`, `g` y `h` pueden verse como un [JSON](https://www.json.org/json-es.html), sin serlo**. Para aclarar: 
-
-Así se puede ver un JSON: 
-```
-{
-    "quote": "The more I think about it now, the less I know, all I know is that you drove us off the road.",
-    "song": "All You Had To Do Was Stay",
-    "album": "1989"
-}
-```
-Y así se puede ver una variable de nombre swiftie dentro del script incrustado en un `*.html` o en un `*.js` aparte.
-```
-var swiftie = {
-    quote: "The more I think about it now, the less I know, all I know is that you drove us off the road.",
-    song: "All You Had To Do Was Stay",
-    album: "1989",
-};
-```
-La diferencia está en las comillas para el nombre, denominador o índice (que está ante de los dos puntos), además de un punto y coma pegado al paréntesis de llave que cierra, que conviene que sobre antes que falte.
 
 - - - - - - - - - - - - -
 

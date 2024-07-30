@@ -62,7 +62,7 @@ Clase 07 → 18/09/2024 → Receso de docencia bimestral (Se suspenden las clase
 
 **[Clase 09 → 02/10/2023](https://github.com/profesorfaco/dno096-2024/tree/main/clase-09) → Evaluación Nº2 (lunes 7 de octubre es el último día para retiro voluntario de cursos)**
 
-[Clase 10 → 09/10/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-10) → Conciendo Bootstrap v5.3
+[Clase 10 → 09/10/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-10) → Conociendo Bootstrap v5.3
 
 [Clase 11 → 16/10/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-11) → Comprendiendo Bootstrap v5.3
 

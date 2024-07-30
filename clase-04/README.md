@@ -22,42 +22,21 @@ Eso es p5.js trabajando con **ml5.js, otra biblioteca de JavaScript**; ambas bib
 
 Para explorar esta biblioteca de JavaScript, así como cualquier otra biblioteca del mismo lenguaje de programación, corresponde consultar las referencias que, por lo general, se presentan en su sitio web oficial.
 
-En el caso de las [referencia de ml5.js](https://learn.ml5js.org/#/reference/index), tenemos un presentación organizada en 5 categorías de funciones, basadas en los tipos de entrada y salida con los que se puede trabajar:
+En el caso de las [referencia de ml5.js](https://docs.ml5js.org/#/reference/overview), tenemos un presentación organizada en 7 modelos, basadas en los tipos de entrada y salida con los que se puede trabajar:
 
-1 **Helpers**
-- ml5.neuralNetwork()
-- ml5.featureExtractor()
-- ml5.KNNClassifier():
-- ml5.kmeans()
+1 BodyPose
 
-2 **Image**
-- ml5.imageClassifier()
-- ml5.poseNet()
-- ml5.bodyPix()
-- ml5.uNet()
-- ml5.handpose()
-- ml5.facemesh()
-- ml5.faceApi()
-- ml5.styleTransfer()
-- ml5.pix2pix()
-- ml5.CVAE()
-- ml5.DCGAN()
-- ml5.sketchRNN()
-- [ml5.objectDetector()](https://learn.ml5js.org/#/reference/object-detector)
+2 BodySegmentation
 
-3 **Sound**
-- [ml5.soundClassifier()](https://learn.ml5js.org/#/reference/sound-classifier)
-- ml5.pitchDetection()
+3 HandPose
 
-4 **Text**
-- ml5.charRNN()
-- ml5.sentiment()
-- ~~ml5.word2vec()~~ ([desactivada](https://twitter.com/ml5js/status/1445762321444315147))
+4  FaceMesh
 
-5 **Utils**
-- ml5.flipImage()
+5 ImageClassifier
 
-**En el listado se incluyen vínculos que permitirán comprender [el ejemplo que pudieron ver en el Editor Web de p5.js](https://learn.ml5js.org/#/reference/sound-classifier), lo que [será explorado en la práctica](https://learn.ml5js.org/#/reference/object-detector) y enterarse de un [problema](https://twitter.com/ml5js/status/1445762321444315147) con el que suelen enredarse estas tecnologías**.
+6 SoundClassifier
+
+7 Sentiment
 
 Antes de seguir –antes de la práctica–, conveniente revisar: 
 

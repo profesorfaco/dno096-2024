@@ -1,4 +1,4 @@
-### Introducción al desarrollo web desde el diseño → Clase 16
+### Introducción al desarrollo web desde el diseño → Clase 16 → 20/11/2020
 
 # Diseño y desarrollo de su primer sitio web profesional o prototipo avanzado de aplicación web.
 

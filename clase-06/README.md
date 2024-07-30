@@ -1,4 +1,4 @@
-### Introducción al desarrollo web desde el diseño → Clase 06
+### Introducción al desarrollo web desde el diseño → Clase 06 → 11/09/2024
 
 # Aplicando HTML5, CSS3 y JS sin bibliotecas
 

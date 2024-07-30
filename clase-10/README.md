@@ -1,6 +1,6 @@
 ### Introducción al desarrollo web desde el diseño → Clase 10
 
-# Conciendo Bootstrap v5.3
+# Conociendo Bootstrap v5.3
 
 ### Teoría
 

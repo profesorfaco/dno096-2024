@@ -1,4 +1,4 @@
-### Introducción al desarrollo web desde el diseño → Clase 01 → 07/08/2024
+### [Introducción al desarrollo web desde el diseño](https://github.com/profesorfaco/dno096-2024/tree/main?tab=readme-ov-file) → Clase 01 → 07/08/2024
 
 # Conociendo dos lenguajes y una biblioteca: HTML5, CSS3 y p5.js
 

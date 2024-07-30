@@ -1,4 +1,4 @@
-### Introducción al desarrollo web desde el diseño → Clase 12
+### Introducción al desarrollo web desde el diseño → Clase 12 → 23/10/2024 
 
 # Aplicando Bootstrap v5.3
 

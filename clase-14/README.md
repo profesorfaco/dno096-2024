@@ -7,4 +7,4 @@ Pendiente.
 
 - - - - - - - 
 
-###### [← CLASE ANTERIOR](https://github.com/profesorfaco/dno096-2024/tree/main/clase-12) — [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno096-2024/tree/main/clase-15)
+###### [← CLASE ANTERIOR](https://github.com/profesorfaco/dno096-2024/tree/main/clase-13) — [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno096-2024/tree/main/clase-15)

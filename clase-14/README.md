@@ -1,4 +1,4 @@
-### Introducción al desarrollo web desde el diseño → Clase 14
+### Introducción al desarrollo web desde el diseño → Clase 14 → 06/11/2024
 
 # Diseño y desarrollo de su primer sitio web profesional o prototipo avanzado de aplicación web.
 

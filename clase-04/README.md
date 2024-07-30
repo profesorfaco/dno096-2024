@@ -4,7 +4,11 @@
 
 ### Teoría (para la casa)
 
-Para comenzar a comprender JavaScript, aprovechamos [p5.js](https://p5js.org/es/): una biblioteca de JavaScript que es una reinterpretación de [Processing](https://processing.org/) para la web. Desde lo aprendido en p5.js podemos conectar con ml5.js. 
+Para comenzar a comprender JavaScript, aprovechamos [p5.js](https://p5js.org/es/): una biblioteca de JavaScript que es una reinterpretación de [Processing](https://processing.org/) para la web. 
+
+Aprendimos que en el sitio web  oficial de tal biblioteca de Javascript se pueden encontrar secciones de referencias, tutoriales, ejemplos, etc. Tales secciones nos permiten aprender a reconocer lo que sería, en analogía, un dialecto. Estirando la analogía: Consideren lo que pasa con el chileno en algún oficio o región determinada: Tienen a la base el castellano, pero puede haber instrucciones con palabras que no hagan sentido a quienes las escuchen desde otro oficio o región.
+
+Para acercarnos a otras bibliotecas, corresponde aprovechar su sitio web oficial, y las secciones que ofrezca para poder relacinarse con sus particulares instrucciones y palabras.
 
 #### ml5.js
 

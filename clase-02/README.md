@@ -1,4 +1,4 @@
-### Introducción al desarrollo web desde el diseño → Clase 02
+### Introducción al desarrollo web desde el diseño → Clase 02 → 14/08/2024
 
 # Comprendiendo dos lenguajes y una biblioteca: HTML5, CSS3 y p5.js
 

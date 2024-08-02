@@ -28,7 +28,7 @@ Esto sin desconocer que existen varias alternativas para simplificar-por-reducci
 
 <img src="https://github.com/user-attachments/assets/6866b1dc-cb26-4c69-bff3-3db62a4b69bc" width="400">
 
-Alternativas tales como [p5.js](https://p5js.org/es/), una biblioteca (*library*) de JavaScript mantenida por una comunidad que trabaja por ofrecer *una herramienta amigable para aprender a programar y hacer arte*.
+Alternativas tales como [p5.js](https://p5js.org/es/), una biblioteca (*library*) de JavaScript mantenida por una comunidad que trabaja por ofrecer *una herramienta amigable para aprender a programar y hacer arte*. Y será con el [p5.js Web Editor](https://editor.p5js.org/) con el que empezaremos a programar.
 
 - - - - - - - - - - - - - - 
 

@@ -22,11 +22,11 @@ HTML puede dominarse tan pronto se memorizan [los elementos HTML](https://develo
 
 Pero JavaScript, y la programación en general, puede tomarnos mucho más tiempo; una cosa es describir qué mostrar y cómo mostrarlo, y otra es estructurar instrucciones ajustadas a circunstancias y objetivos:
 
-![meme](https://user-images.githubusercontent.com/7999767/156002975-2dfbf580-f6e2-4bd8-8e40-7110457a4cb4.png)
+<img src="https://user-images.githubusercontent.com/7999767/156002975-2dfbf580-f6e2-4bd8-8e40-7110457a4cb4.png" width="400">
 
 Esto sin desconocer que existen varias alternativas para simplificar-por-reducción el *programming*: 
 
-![olimpics](https://github.com/user-attachments/assets/6866b1dc-cb26-4c69-bff3-3db62a4b69bc)
+<img src="https://github.com/user-attachments/assets/6866b1dc-cb26-4c69-bff3-3db62a4b69bc" width="400">
 
 
 - - - - - - - - - - - - - - 

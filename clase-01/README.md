@@ -24,9 +24,15 @@ Pero JavaScript, y la programación en general, puede tomarnos mucho más tiempo
 
 <img src="https://user-images.githubusercontent.com/7999767/156002975-2dfbf580-f6e2-4bd8-8e40-7110457a4cb4.png" width="400">
 
-Esto sin desconocer que existen varias alternativas para simplificar-por-reducción el *programming*: 
+Esto sin desconocer que existen varias alternativas para simplificar el *programming*, mediante *libraries* que pueden tener mucho de tres leyes y una clave de John Maeda (2005):
 
-<img src="https://github.com/user-attachments/assets/6866b1dc-cb26-4c69-bff3-3db62a4b69bc" width="400">
+**REDUCIR** La manera más sencilla de alcanzar la simplicidad es mediante la reducción razonada
+
+**APRENDIZAJE** El conocimiento lo simplifica todo
+
+**LA ÚNICA** La simplicidad consiste en sustraer lo que es obvio y añadir lo específico
+
+**ABRIR** La apertura simplifica la complejidad 
 
 Alternativas tales como [p5.js](https://p5js.org/es/), una biblioteca (*library*) de JavaScript mantenida por una comunidad que trabaja por ofrecer *una herramienta amigable para aprender a programar y hacer arte*. Y será con el [p5.js Web Editor](https://editor.p5js.org/) con el que empezaremos a programar.
 

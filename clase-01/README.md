@@ -24,7 +24,7 @@ Pero JavaScript, y la programación en general, puede tomarnos mucho más tiempo
 
 <img src="https://user-images.githubusercontent.com/7999767/156002975-2dfbf580-f6e2-4bd8-8e40-7110457a4cb4.png" width="400">
 
-Esto sin desconocer que existen varias alternativas para simplificar el *programming*, mediante *libraries* que pueden tener mucho de tres leyes y una clave de John Maeda (2005):
+Esto sin desconocer que existen varias alternativas para simplificar el *programming*, mediante *libraries* que pueden tener mucho de tres leyes y una clave de John Maeda (2006):
 
 **REDUCIR** La manera más sencilla de alcanzar la simplicidad es mediante la reducción razonada
 

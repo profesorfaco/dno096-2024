@@ -40,7 +40,7 @@ Cada estudiante en este OPR debe disponer de:
 
 Según [Calendario de Actividades Académicas y Estudiantiles 2024](https://registrosacademicos.uc.cl/wp-content/uploads/2023/11/Calendario-Academico-2024.pdf), las clases del **segundo semestre del año 2024 comienzan el día lunes 5 de agosto y finalizan el viernes 29 de noviembre**. Los exámenes de cursos mínimos y optativos están programados entre lunes 2 y viernes 6 de diciembre.
 
-Nuestro horario de clases: **Miércoles en módulos 3 y 4, esto es entre 11:00 y 13:30 hrs.** 
+Nuestro horario de clases: **Miércoles en módulos 3 y 4, esto es entre 11:00 y 13:30 hrs. (sala 201)**
 
 **Cada clase se basará en modalidad de “aula invertida”**; esto transfiere a cada estudiante la responsabilidad de adelantar la revisión de la "teoría" en el README.md de cada clase vinculada a continuación. Para que quede más claro, en los primeros README.md el título de **Teoría** es seguido por un paréntesis **(para la casa)**. Si cada estudiante revisa esta "teoría para la casa", las clases de los miércoles podrán basarse en una práctica que organizará su comprensión, atendiendo a dudas puntuales:
 

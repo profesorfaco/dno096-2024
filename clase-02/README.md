@@ -6,7 +6,7 @@
 
 Ya pudimos reconocer la diferencia entre los lenguajes de descripción (HTML y CSS) y el lenguaje de programación (JS). 
 
-Para comenzar a profundizar en un lenguaje de programación aprovechamos [p5.js](https://p5js.org/es/), una biblioteca fue creada por [Lauren McCarthy](http://lauren-mccarthy.com/) y es desarrollada por una comunidad de colaboradores, con apoyo de [Processing Foundation](https://processingfoundation.org/) y [NYU ITP](https://forms.tisch.nyu.edu/page/s/itp-landing). Entre los colaboradores hay 2 chilenos, que se han encargado de la traducción de referencias, tutoriales y [un libro](https://drive.google.com/drive/folders/1uGeBOGVAqwp6-JXnojcw2cvOIaS79ZEn?usp=sharing) al castellano; ellos son: [Guillermo Montecinos](https://guillemontecinos.cl/) y [Aarón Montoya-Moraga](https://montoyamoraga.io/).
+Para comenzar a profundizar en un lenguaje de programación aprovechamos [p5.js](https://p5js.org/es/), una biblioteca fue creada por [Lauren McCarthy](http://lauren-mccarthy.com/) y es desarrollada por una comunidad de colaboradores, con apoyo de [Processing Foundation](https://processingfoundation.org/) y [NYU ITP](https://tisch.nyu.edu/itp). Entre los colaboradores hay 2 chilenos, que se han encargado de la traducción de referencias, tutoriales y [un libro](https://drive.google.com/drive/folders/1uGeBOGVAqwp6-JXnojcw2cvOIaS79ZEn?usp=sharing) al castellano; ellos son: [Guillermo Montecinos](https://guillemontecinos.cl/) y [Aarón Montoya-Moraga](https://montoyamoraga.io/).
 
 [p5.js](https://p5js.org/es/) es una reinterpretación de [Processing](https://processing.org/) para la web. Consideremos que cuando se trabaja en Processing cada *sketch* tiene su `void setup()` y `void draw()`. Hay un `setup` que se ejecuta una única vez, en la partida. Hay un `draw` que por defecto se ejecuta una y otra vez. Ahora, cambiemos el `void` de [Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)) por el `function` de [JavaScript](https://es.wikipedia.org/wiki/JavaScript), y tenemos:
 
@@ -20,9 +20,9 @@ function draw(){
 }
 ```
 
-Como se trata de una biblioteca de JavaScript se que ofrece como *una herramienta amigable para aprender a programar y hacer arte*, con [p5.js](https://p5js.org/es/) accedemos a un conjunto completo de funcionalidades para dibujar. Sin embargo, no estamos limitados a dibujar. Podemos tomar toda la página que se despliega en el navegador.
+Como se trata de una biblioteca de JavaScript se que ofrece como *una herramienta amigable para aprender a programar y hacer arte*, con [p5.js](https://p5js.org/es/) accedemos a un conjunto completo de funcionalidades para dibujar una y otra vez (`draw`). Sin embargo, no estamos limitados a dibujar; podemos tomar toda la página que se despliega en el navegador.
 
-Y puedes tomar toda la página del navegador por el [Modelo de Objeto de Documento (DOM)](https://developer.mozilla.org/es/docs/Glossary/DOM): **A través del DOM, los programas escritos en JavaScript pueden acceder y modificar el contenido, estructura y estilo a la vista**.
+Y podemos tomar toda la página del navegador por el [Modelo de Objeto de Documento (DOM)](https://developer.mozilla.org/es/docs/Glossary/DOM): **A través del DOM, los programas escritos en JavaScript pueden acceder y modificar el contenido, estructura y estilo a la vista**.
 
 Con el DOM podemos manipular una página así como cuando *photoshopeamos* una imagen. Si capturaste una imagen con 3 elementos y agregas un cuarto *photoshopénadolo*, en ningún caso modificas el fenómeno capturado, pero todos podrán ver una imagen con 4 elementos. 
 

@@ -6,7 +6,11 @@
 
 Ya pudimos reconocer la diferencia entre los lenguajes de descripción (HTML y CSS) y el lenguaje de programación (JS). 
 
-Para comenzar a profundizar en un lenguaje de programación aprovechamos [p5.js](https://p5js.org/es/), una biblioteca fue creada por [Lauren McCarthy](http://lauren-mccarthy.com/) y es desarrollada por una comunidad de colaboradores, con apoyo de [Processing Foundation](https://processingfoundation.org/) y [NYU ITP](https://tisch.nyu.edu/). Entre los colaboradores hay 2 chilenos, que se han encargado de la traducción de referencias, tutoriales y [un libro](https://drive.google.com/drive/folders/1uGeBOGVAqwp6-JXnojcw2cvOIaS79ZEn?usp=sharing) al castellano; ellos son: [Guillermo Montecinos](https://guillemontecinos.cl/) y [Aarón Montoya-Moraga](https://montoyamoraga.io/).
+Pero lo que estmoa reconociendo de JavaScript depende de lo acotado de una biblioteca de JavaScript: [p5.js](https://p5js.org/es/)
+
+![meme-olimpico](https://github.com/user-attachments/assets/b68e62c1-5b2a-4e70-9673-609921c88c59)
+
+Se trata de una biblioteca creada por [Lauren McCarthy](http://lauren-mccarthy.com/) y es desarrollada por una comunidad de colaboradores, con apoyo de [Processing Foundation](https://processingfoundation.org/) y [NYU ITP](https://tisch.nyu.edu/). Entre los colaboradores hay 2 chilenos, que se han encargado de la traducción de referencias, tutoriales y [un libro](https://drive.google.com/drive/folders/1uGeBOGVAqwp6-JXnojcw2cvOIaS79ZEn?usp=sharing) al castellano; ellos son: [Guillermo Montecinos](https://guillemontecinos.cl/) y [Aarón Montoya-Moraga](https://montoyamoraga.io/).
 
 [p5.js](https://p5js.org/es/) es una reinterpretación de [Processing](https://processing.org/) para la web. Consideremos que cuando se trabaja en Processing cada *sketch* tiene su `void setup()` y `void draw()`. Hay un `setup` que se ejecuta una única vez, en la partida. Hay un `draw` que por defecto se ejecuta una y otra vez. Ahora, cambiemos el `void` de [Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)) por el `function` de [JavaScript](https://es.wikipedia.org/wiki/JavaScript), y tenemos:
 

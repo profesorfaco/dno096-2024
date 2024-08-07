@@ -20,7 +20,7 @@ function draw(){
 }
 ```
 
-Tal como Processing, [p5.js](https://p5js.org/es/) ofrece
+Siendo una biblioteca de JavaScript se que ofrece como *una herramienta amigable para aprender a programar y hacer arte*, [p5.js](https://p5js.org/es/) ofrece
 
 > un conjunto completo de funcionalidades para dibujar. Sin embargo, no estás limitado solo a dibujar en tu lienzo. Puedes tomar toda la página del navegador como tu bosquejo, incluyendo los objetos HTML5 para texto, entrada, video, cámara web y sonido.
 

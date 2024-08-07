@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <!--Busque su emoji en https://www.w3schools.com/html/html_emojis.asp-->
+        <title>🚀 ¡Segunda clase!</title>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/p5.js"></script>
+        <style>
+            html,body {
+                font-family: Helvetica, Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+                cursor: crosshair;
+            }
+            
+            canvas {
+                display: block;
+            }
+            
+            header {
+                position: absolute;
+                top: 1rem;
+                left: 3rem;
+                z-index: 2;
+                width:calc(100vw * 0.38);
+            }
+
+            @media (orientation: portrait){
+                header {
+                    width:calc(100vw * 0.62);                    
+                }
+            }
+
+            p{
+                line-height:1.5;
+            }
+
+            code{
+                color:#455A64;
+                font-size:1rem;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1></h1>
+            <p>
+                Tomé este curso porque me interesa mucho el área del diseño que aborda, y estoy comprometida en aprender en este campo. Dado que estas prácticas están altamente valoradas en la industria del diseño, considerándolo
+                fundamental para mi crecimiento profesional.
+            </p>
+            <p>Dibuja mientras haces <code>mouseDragged()</code></p>            
+        </header>
+        <main>
+        </main>
+        <script>
+            var saludo = ["¡Hola mundo!","¡Hola universo!", "¡Hola orbe!", "¡Hola cosmos!", "¡Hola creación!"];
+
+            var titular;
+
+            function setup() {
+                createCanvas(windowWidth, windowHeight);
+                //selecciona un par de colores en https://materialui.co/colors
+                background('#CFD8DC');
+                stroke('#546E7A');
+                titular = select('h1');
+                titular.html(random(saludo));
+            }
+            function mouseDragged() {
+                line(pmouseX, pmouseY, mouseX, mouseY);
+            }
+        </script>
+    </body>
+</html>

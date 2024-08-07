@@ -40,7 +40,11 @@ Alternativas tales como [p5.js](https://p5js.org/es/), una biblioteca (*library*
 
 ### Práctica (para la clase)
 
-Pendiente.
+En un `index.html` describimos un título de primer nivel y un párrafo, con cierto contenido (HTML) y en cierta ubicación (CSS). Y programamos un “fondo” sobre el que se puede dibujar (JavaScript simplificado con la biblioteca p5.js).
+
+Los resultados deben ser ingresados antes de las 23.59 hrs. de hoy, miércoles 7 de agosto, al foro en: https://cursos.canvas.uc.cl/courses/80331/discussion_topics/844230
+
+Si se cumple con el plazo y se atiende a la instrucciones del foro: Se obtienen 0,5 como base para la primera evaluación. 
 
 - - - - - - - 
 

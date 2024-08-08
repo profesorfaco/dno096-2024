@@ -6,7 +6,7 @@
 
 Ya pudimos reconocer la diferencia entre los lenguajes de descripción (HTML y CSS) y el lenguaje de programación (JS). 
 
-Pero lo que estamos reconociendo de JavaScript depende de lo acotado de una biblioteca de JavaScript: [p5.js](https://p5js.org/es/)
+Pero lo que estamos reconociendo de JavaScript depende de lo acotado por una biblioteca de JavaScript: [p5.js](https://p5js.org/es/)
 
 ![meme-olimpico](https://github.com/user-attachments/assets/b68e62c1-5b2a-4e70-9673-609921c88c59)
 

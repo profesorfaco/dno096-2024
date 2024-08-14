@@ -122,6 +122,9 @@ La lectura de sus razones para tomar el OPR (de la práctica de la clase recién
 
 Hoy reutilizaremos tales razones, para avanzar un poco más. 
 
+Los resultados deben ser ingresados antes de las 23.59 hrs. de hoy, miércoles 14 de agosto, al foro en: https://cursos.canvas.uc.cl/courses/80331/discussion_topics/846517
+
+Si se cumple con el plazo y se atiende a la instrucciones del foro: Se obtienen 0,5 como base para la primera evaluación.
 
 - - - - - - - 
 

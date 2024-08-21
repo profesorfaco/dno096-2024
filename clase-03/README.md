@@ -79,18 +79,7 @@ A continuación se describe el desafío que debe partir con 3 documentos prepara
 
 0,25 - active el botón descarga, poniéndole el nombre `orbit-control.jpg` a lo que se descargue.
 
-#### 1,0 por `page-5.html`
-
-0,25 - escoja otro ejemplo del adelanto enviado al correo.
-
-0,25 - agregue en el menú de todas las página su nombre, y márquelo cuando se esté mostrando esta página.
-
-0,25 - implemente el ejemplo seleccionado a página completa, respetando el color de fondo de todas las demás páginas y cuidando el contraste.
-
-0,25 - active el botón descarga, poniéndole el nombre del ejemplo a lo que se descargue.
-
 #### 1,0 por `style.css`, ajustando el color de fondo para mantener el mismo en todas las páginas del sitio.
-
 
 #### TOTAL 6,0. AL QUE SE SUMA 1,0 QUE DEBIÓ OBTENERSE POR EJERCICIOS DE PRIMERA Y SEGUNDA CLASE.
 

@@ -94,7 +94,7 @@ A continuación se describe el desafío que debe partir con 3 documentos prepara
 
 #### TOTAL 6,0. AL QUE SE SUMA 1,0 QUE DEBIÓ OBTENERSE POR EJERCICIOS DE PRIMERA Y SEGUNDA CLASE.
 
-#### Tiene hasta las 13.29 hrs. para ingresar la URL de su página github con el sitio funcionando. No puede pedir ayuda para resolver esta subida y activación… ¡Porque es prueba!
+#### Tiene [hasta las 13.29 hrs. para ingresar en el foro la URL de su página github con el sitio funcionando](https://cursos.canvas.uc.cl/courses/80331/discussion_topics/853084). No puede pedir ayuda para resolver esta subida y activación… ¡Porque es prueba!
 
 
 - - - - - - - 

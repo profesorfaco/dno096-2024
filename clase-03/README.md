@@ -85,6 +85,7 @@ A continuación se describe el desafío que debe partir con 3 documentos prepara
 
 #### Tiene [hasta las 13.29 hrs. para ingresar en el foro la URL de su página github con el sitio funcionando](https://cursos.canvas.uc.cl/courses/80331/discussion_topics/853084). No puede pedir ayuda para resolver esta subida y activación… ¡Porque es prueba!
 
+Recuerde: Dele tiempo a GitHub. Podría ser que si le funcione, y lo que pasea es que no se está actualizando la lectura que hace su navegador de la página. Use Comando + Shift + R para forzarlo a refrescar esa lectura.
 
 - - - - - - - 
 

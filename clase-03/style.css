@@ -1,0 +1,78 @@
+html,
+body {
+    /*repita un mismo background aquí y en todos los script*/
+    background:#292929;
+    /* cuide el contraste entre background y color */
+    color:#eee;
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    width:100vw;
+    height:100vh;
+    overflow: hidden;
+}
+
+canvas {
+    display: block;
+}
+
+header {
+    position: absolute;
+    top: 1rem;
+    left: 3rem;
+    z-index: 2;
+    width: 70vw;
+}
+
+@media (orientation: landscape) {
+    header {
+        width: 45vw;
+    }
+}
+
+a {
+    color: #bbb;
+    text-decoration: none;
+    margin-right: 1rem;
+}
+
+a:hover{
+    color:#fff;
+}
+
+a.activo {
+    font-weight: #ddd;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+h1{
+    font-size:calc(1rem + 3vw);
+    text-shadow: 1px 1px 10px rgba(0,0,0,.5);
+    font-weight: normal;
+    margin-left:-5px;
+}
+
+h2{
+    font-size:calc(1rem + 1.2vw);
+}
+
+p {
+    line-height: 1.5;
+}
+
+aside {
+    z-index: 2;
+    position: absolute;
+    left: 3rem;
+    bottom: 2rem;
+}
+
+aside button{
+    padding:.3rem .6rem;
+    font-weight: bold;
+}

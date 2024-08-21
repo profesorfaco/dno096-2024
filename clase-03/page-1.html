@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>📝 Evaluación N°1</title>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/p5.js"></script>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <header>
+            <p>
+                <a href="index.html">Hola</a>
+                <a href="page-1.html" class="activo">Caleidoscopio</a>
+                <a href="page-2.html">Condiciones</a>
+                <a href="page-3.html">Poema Aleatorio</a>
+                <a href="page-4.html">Orbit Control</a>
+            </p>
+            <h1>Caleidoscopio</h1>
+        </header>
+        <main></main>
+        <!--active este botón-->
+        <aside>
+            <button>🖼️ DESCARGA</button>
+        </aside>
+        <!-- Lo que sigue depende de usted -->
+        <script>
+            function setup() {
+                createCanvas(windowWidth, windowHeight);
+                //repita un mismo background en el style.css y en todos los script
+                background("#292929");
+            }
+
+            function draw() {
+            }
+
+            function foto() {
+                saveCanvas("nombre-del-ejemplo.jpg");
+            }
+
+            function windowResized() {
+                //repita un mismo background en el style.css y en todos los script
+                background("#292929");
+                resizeCanvas(windowWidth, windowHeight);
+            }
+        </script>
+    </body>
+</html>

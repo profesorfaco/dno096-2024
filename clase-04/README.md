@@ -54,7 +54,23 @@ Viendo tal video y/o leyendo tal artículo podrían hacerse de una idea sobre el
 
 ### Práctica (para la clase)
 
-Pendiente.
+Hoy reutilizaremos lo preparado para la evaluación N°1, para contar con una estructura una web con: 
+
+`index.html` → Manteniendo lo de la clase previa.
+
+`page-1.html` → Con el ejemplo de [BodyPose](https://docs.ml5js.org/#/reference/bodypose)
+
+`page-2.html` → Con el ejemplo de [BodySegmentation](https://docs.ml5js.org/#/reference/body-segmentation)  
+
+`page-3.html` → Con el ejemplo de [HandPose](https://docs.ml5js.org/#/reference/handpose)
+
+`page-4.html` → Con el ejemplo de [FaceMesh](https://docs.ml5js.org/#/reference/facemesh)
+
+En toda la web, modifica los nombres en el menú y en cada título de primer nivel. También ajusta el CSS para incluir una Fuente de Google.
+
+Luego modifica los ejemplo para tener videos con tinta, además de distintos colores y tamaños de los círculos (que aparecen como puntos en BodyPose, HandPose y FaceMesh).
+
+Los resultados deben ser ingresados antes de las 23.59 hrs. de hoy, miércoles 28 de agosto, al foro en: https://cursos.canvas.uc.cl/courses/80331/discussion_topics/857574
 
 - - - - - - - 
 

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>👴🏻👴🏼👴🏽👴🏾👴🏿 jQuery</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <main>
+            <p>
+                <a href="index.html" class="activo">Hola</a>
+                <a href="page.html">Foto</a>
+            </p>
+            <h1></h1>
+            <h2></h2>
+            <p id="aqui"></p>
+            <p id="alla" class="escondido"></p>
+        </main>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        <script>
+            var texto = {
+                saludo: ["¡Hola caos!", "¡Hola cosmos!"],
+                nombre: "Mi nombre es Lorem Ipsum",
+                motivo: "Tomé y sigo en este curso porque lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non turpis laoreet, tincidunt velit nec, ultricies ipsum. Sed at arcu ac lectus rhoncus <span>molestie…</span>.",
+                etc: "Ya revisé mi primera nota y la verdad es que lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non turpis laoreet, tincidunt velit nec, ultricies ipsum. Sed at arcu ac lectus rhoncus molestie.",
+            };
+            var aleatorio = Math.floor(Math.random() * texto.saludo.length);
+            console.log(aleatorio);
+            $("h1").html(texto.saludo[aleatorio]);
+            $("h2").html(texto.nombre);
+            $("#aqui").html(texto.motivo);
+            $("#alla").html(texto.etc);
+            function revelador() {
+                $("#alla").toggleClass("escondido");
+            }
+            $("span").hover(revelador);
+        </script>
+    </body>
+</html>

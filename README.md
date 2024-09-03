@@ -44,13 +44,13 @@ Nuestro horario de clases: **Miércoles en módulos 3 y 4, esto es entre 11:00 y
 
 **Cada clase se basará en modalidad de “aula invertida”**; esto transfiere a cada estudiante la responsabilidad de adelantar la revisión de la "teoría" en el README.md de cada clase vinculada a continuación. Para que quede más claro, en los primeros README.md el título de **Teoría** es seguido por un paréntesis **(para la casa)**. Si cada estudiante revisa esta "teoría para la casa", las clases de los miércoles podrán basarse en una práctica que organizará su comprensión, atendiendo a dudas puntuales:
 
-[Clase 01 → 07/08/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-01) → Conociendo dos lenguajes y una biblioteca: HTML5, CSS3 y p5.js
+[Clase 01 → 07/08/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-01) → Conociendo dos lenguajes y una biblioteca: HTML5, CSS3 y p5.js ✓
 
-[Clase 02 → 14/08/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-02) → Comprendiendo dos lenguajes y una biblioteca: HTML5, CSS3 y p5.js
+[Clase 02 → 14/08/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-02) → Comprendiendo dos lenguajes y una biblioteca: HTML5, CSS3 y p5.js ✓
 
-**[Clase 03 → 21/08/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-03) → Evaluación Nº1**
+**[Clase 03 → 21/08/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-03) → Evaluación Nº1 ✓**
 
-[Clase 04 → 28/08/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-04) → Conociendo y comprendiendo otras bibliotecas de JS (Semana Universitaria; durante esta semana no se efectuarán evaluaciones académicas)
+[Clase 04 → 28/08/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-04) → Conociendo y comprendiendo otras bibliotecas de JS (Semana Universitaria; durante esta semana no se efectuarán evaluaciones académicas) ✓
 
 [Clase 05 → 04/09/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-05) → Aplicando HTML5, CSS3 y otras bibliotecas de JS
 

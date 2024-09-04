@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>👴🏻👴🏼👴🏽👴🏾👴🏿 jQuery</title>
+        <link rel="stylesheet" href="style.css" />
+        <style>
+            div{
+                background:rgba(255,255,255,0.5);
+                padding:1rem;
+                margin:1rem 0;
+            }
+        </style>
+    </head>
+    <body>
+        <main>
+            <p>
+                <a href="index.html">Hola</a>
+                <a href="page-1.html" class="activo">Selecciona</a>
+                <a href="page-2.html">Foto</a>
+            </p>
+            <h1>Selecciona</h1>
+            <select>
+                <option>todos</option>
+                <option>unos</option>
+                <option>otros</option>
+            </select>
+            <div class="unos">Soy de los unos</div>
+            <div class="otros">Soy de los otros</div>
+            <div class="unos">Soy de los unos</div>
+            <div class="otros">Soy de los otros</div>
+            <div class="unos">Soy de los unos</div>
+            <div class="otros">Soy de los otros</div>            
+        </main>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        <script>
+            $("select").change(function () {
+                valor = $("select").val();
+                if (valor == "unos") {
+                    $(".unos").show();
+                    $(".otros").hide();
+                } else if (valor == "otros"){
+                    $(".unos").hide();
+                    $(".otros").show();
+                } else {
+                    $(".unos").show();
+                    $(".otros").show();
+                }
+            });          
+        </script>
+    </body>
+</html>

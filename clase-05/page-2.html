@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>👴🏻👴🏼👴🏽👴🏾👴🏿 jQuery</title>
+        <link rel="stylesheet" href="style.css" />
+        <style>
+            img{
+                width: min(80%,400px); 
+                border:2px solid white;
+            }
+            p:last-child{
+                margin-bottom:5rem;
+            }
+        </style>
+    </head>
+    <body>
+        <main>
+            <p>
+                <a href="index.html">Hola</a>
+                <a href="page-1.html">Selecciona</a>
+                <a href="page-2.html" class="activo">Foto</a>
+            </p>
+            <h1>Foto</h1>
+        </main>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        <script>
+            //Generen su propia API Key en https://api.nasa.gov/
+            $.getJSON( "https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2001-06-03", function( data ) {
+                console.log(data);
+                $("h1").after("<img src='"+data.url+"'><p>"+data.explanation+"</p>");
+            }); 
+            // busquen una fecha especial, puede ser su nacimiento. Seguro existe una foto para ese día: https://apod.nasa.gov/apod/archivepix.html           
+        </script>
+    </body>
+</html>

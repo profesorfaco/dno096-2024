@@ -59,7 +59,7 @@ Con la última instrucción de jQuery, el cambio de color sobre todos los elemen
 
 #### Práctica
 
-Pendiente.
+Partamos desde acá: https://profesorfaco.github.io/dno096-2024/clase-05/
 
 - - - - - - - -
 

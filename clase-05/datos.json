@@ -3,77 +3,91 @@
         "nombre": "Angela Fernandez",
         "github": "https://github.com/angelafernandezs",
         "fecha": "2001-04-10",
-        "signo":"aries",
+        "signo": "aries",
         "foto": "https://apod.nasa.gov/apod/image/0104/m51_hst.jpg"
     },
     {
         "nombre": "Alicia Silva",
         "github": "https://github.com/Ali-Mari",
         "fecha": "2010-04-24",
-        "signo":"tauro",
+        "signo": "tauro",
         "foto": "https://apod.nasa.gov/apod/image/1004/NGC1055_crawford950.jpg"
     },
     {
         "nombre": "Sofía Rizzoli",
         "github": "https://github.com/sssrrrddd",
         "fecha": "2003-01-21",
-        "signo":"acuario",
+        "signo": "acuario",
         "foto": "https://apod.nasa.gov/apod/image/0301/m78_dv.jpg"
     },
     {
         "nombre": "Giuliana Yacometti",
         "github": "https://github.com/gyacometti",
         "fecha": "2002-12-11",
-        "signo":"sagitario",
+        "signo": "sagitario",
         "foto": "https://apod.nasa.gov/apod/image/0212/Leonids_martin.jpg"
     },
     {
         "nombre": "Benjamín Rodríguez",
         "github": "https://github.com/benjamin-rdz",
         "fecha": "2001-11-29",
-        "signo":"sagitario",
+        "signo": "sagitario",
         "foto": "https://apod.nasa.gov/apod/image/0111/coronalinflow_soho.jpg"
     },
     {
         "nombre": "Pablo Vergara",
         "github": "https://github.com/PabloV628",
         "fecha": "2024-06-28",
-        "signo":"cancer",
+        "signo": "cancer",
         "foto": "https://apod.nasa.gov/apod/image/2406/13P_Olbers_2024_06_24_215434PDT_DEBartlett1024.jpg"
     },
     {
         "nombre": "Kimberly McCartney",
         "github": "https://github.com/kimccartney",
         "fecha": "2001-02-16",
-        "signo":"acuario",
+        "signo": "acuario",
         "foto": "https://apod.nasa.gov/apod/image/0102/hubblex_hst.jpg"
     },
     {
         "nombre": "Fernanda Mamani",
         "github": "https://github.com/Nandaamc",
         "fecha": "2010-09-19",
-        "signo":"virgo",
+        "signo": "virgo",
         "foto": "https://apod.nasa.gov/apod/image/1009/carinablue_hst.jpg"
     },
     {
         "nombre": "Florencia Rodríguez",
         "github": "https://github.com/florencia-rz/",
         "fecha": "2010-09-19",
-        "signo":"cancer",
+        "signo": "cancer",
         "foto": "https://apod.nasa.gov/apod/image/1009/carinablue_hst.jpg"
     },
     {
         "nombre": "Renata Ramos",
         "github": "https://github.com/wrnatarb/",
         "fecha": "2002-12-05",
-        "signo":"sagitario",
+        "signo": "sagitario",
         "foto": "https://apod.nasa.gov/apod/image/0212/ngc2359_smith.jpg"
     },
     {
         "nombre": "Constanza Lagos",
         "github": "https://github.com/conyln/",
         "fecha": "1998-09-08",
-        "signo":"virgo",
+        "signo": "virgo",
         "foto": "https://apod.nasa.gov/apod/image/9809/clusters_hst.jpg"
+    },
+    {
+        "nombre": "Gianfranco Music",
+        "github": "https://github.com/franki-rar",
+        "fecha": "2001-08-13",
+        "signo": "leo",
+        "foto": "https://apod.nasa.gov/apod/image/0108/ipd_nasa.jpg"
+    },
+    {
+        "nombre": "Vicente Robaldo",
+        "github": "https://github.com/Mister-Worldwide",
+        "fecha": "2024-04-29",
+        "signo": "tauro",
+        "foto": "https://apod.nasa.gov/apod/image/2404/CometTriple_Casado_1080.jpg"
     }
 ]

@@ -61,6 +61,8 @@ Con la última instrucción de jQuery, el cambio de color sobre todos los elemen
 
 Partamos desde acá: https://profesorfaco.github.io/dno096-2024/clase-05/
 
+Y sigamos con esto: https://raw.githubusercontent.com/profesorfaco/dno096-2024/main/clase-05/datos.json
+
 - - - - - - - -
 
 ###### [← CLASE ANTERIOR](https://github.com/profesorfaco/dno096-2024/tree/main/clase-04) — [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno096-2024/tree/main/clase-06)

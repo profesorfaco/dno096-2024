@@ -4,13 +4,6 @@
         <meta charset="utf-8" />
         <title>👴🏻👴🏼👴🏽👴🏾👴🏿 jQuery</title>
         <link rel="stylesheet" href="style.css" />
-        <style>
-            div{
-                background:rgba(255,255,255,0.5);
-                padding:1rem;
-                margin:1rem 0;
-            }
-        </style>
     </head>
     <body>
         <main>
@@ -20,31 +13,53 @@
                 <a href="page-2.html">Foto</a>
             </p>
             <h1>Selecciona</h1>
+            
             <select>
                 <option>todos</option>
-                <option>unos</option>
-                <option>otros</option>
+                <option>aries</option>
+                <option>tauro</option>
+                <option>cancer</option>
+                <option>virgo</option>
+                <option>sagitario</option>
+                <option>acuario</option>
             </select>
-            <div class="unos">Soy de los unos</div>
-            <div class="otros">Soy de los otros</div>
-            <div class="unos">Soy de los unos</div>
-            <div class="otros">Soy de los otros</div>
-            <div class="unos">Soy de los unos</div>
-            <div class="otros">Soy de los otros</div>            
+
+            <aside></aside>
+            
         </main>
+
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        <script>
+        $.getJSON("https://raw.githubusercontent.com/profesorfaco/dno096-2024/main/clase-05/datos.json", function(data) {
+                console.log(data);
+                
+                data.forEach(function(d){
+                    $("aside").append("<div class='"+ d.signo +"'><img src='"+ d.foto +"'><p>" + d.nombre +"</p></div>");
+                });
+
+        }); 
+        </script>
         <script>
             $("select").change(function () {
                 valor = $("select").val();
-                if (valor == "unos") {
-                    $(".unos").show();
-                    $(".otros").hide();
-                } else if (valor == "otros"){
-                    $(".unos").hide();
-                    $(".otros").show();
+                if (valor == "aries") {
+                    $(".aries").show();
+                    $(".tauro").hide();
+                    $(".geminis").hide();
+                    $(".cancer").hide();
+                    $(".leo").hide();
+                    $(".virgo").hide();
+                    $(".libra").hide();
+                    $(".escorpio").hide();
+                    $(".sagitario").hide();
+                    $(".capricornio").hide();
+                    $(".acuario").hide();
+                    $(".piscis").hide();
+                } 
+                else if (valor == "tauro"){
+                    //repetir
                 } else {
-                    $(".unos").show();
-                    $(".otros").show();
+                    //todos quieren su show
                 }
             });          
         </script>

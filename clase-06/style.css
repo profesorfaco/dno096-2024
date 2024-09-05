@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap");
+
+html, body {
+    background: linear-gradient(#123,#345);
+    color: rgba(255, 255, 255, 0.7);
+    margin: 0;
+    padding: 0;
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    min-height: 100vh;
+}
+
+header, main{
+    padding: 1rem 2rem;    
+}
+
+header {
+    width: calc(50vw - 4rem);
+}
+
+@media (orientation: portrait) {
+    header {
+        width: calc(90vw - 4rem);
+    }
+}
+
+main{
+    width: calc(90vw - 4rem);
+    padding-bottom: 10vh;   
+}
+
+h1 {
+    font-size: calc(1rem + 2vw);
+    text-shadow: 0 0 5px rgba(10, 20, 30, 0.5);
+    font-weight: normal;
+    margin-left: -5px;
+    line-height: 1;
+}
+
+h2 {
+    font-size: calc(1rem + 1vw);
+    line-height: 1;
+}
+
+select{
+    padding:0.25rem;
+}
+
+a {
+    color: #bbb;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #fff;
+}
+
+main div{
+    width:24%;
+    margin:2% 1% 0 0;
+    background:black;
+    display:inline-block;
+    vertical-align: bottom;
+    overflow: hidden;
+}
+
+@media (orientation: portrait) {
+    main div {
+        width:49%;
+    }
+}
+
+main div img{
+    width:100%;
+}
+
+main div p{
+    text-align: center;
+    margin-top:0;
+    margin-bottom:.5rem;
+    padding:0;
+}
+
+.esconde{
+    display: none;
+}

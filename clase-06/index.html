@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>👦🏻👦🏼👦🏽👦🏾👦🏿 fetch()</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <header>
+            <h1>JavaScript a secas</h1>
+            <h2></h2>
+            <select>
+                <option>todos</option>
+                <option>acuario</option>
+                <option>piscis</option>
+                <option>aries</option>
+                <option>tauro</option>
+                <option>geminis</option>
+                <option>leo</option>
+                <option>cancer</option>
+                <option>virgo</option>
+                <option>libra</option>
+                <option>escorpio</option>
+                <option>sagitario</option>
+                <option>capricornio</option>
+            </select>
+        </header>
+
+        <main></main>
+
+        <script>
+            //unas variables que no varían, que son constantes:
+
+            const autoria = document.querySelector("h2");
+
+            const principal = document.querySelector("main");
+
+            const seleccion = document.querySelector("select");
+
+            const nombre = "Nombre Apellido";
+
+            //noten que hoy uso `` y ${}, en lugar de comillas y concatenaciones
+
+            autoria.innerHTML = `Por ${nombre}`;
+
+            //acá voy por el JSON
+
+            async function astros() {
+                const consulta = await fetch("https://raw.githubusercontent.com/profesorfaco/dno096-2024/main/clase-05/datos.json");
+                const data = await consulta.json();
+                console.log(data);
+
+                data.forEach((d) => principal.innerHTML += `<div class="${d.signo}"><img src="${d.foto}" title="${d.fecha}"><p><a href="${d.github}" target="_blank">${d.nombre}</a></p>`);
+
+                seleccionables();
+            }
+
+            astros().catch((error) => console.error(error));
+
+            //lo que sigue es una función que ejecuto dentro de astros()
+
+            var valor;
+
+            function seleccionables() {
+                seleccion.addEventListener("change", (e) => {
+                    document.querySelectorAll("div").forEach((t) => t.classList.add("esconde"));
+                    valor = e.target.value;
+                    if (valor !== "todos") {
+                        document.querySelectorAll(`.${valor}`).forEach((t) => t.classList.remove("esconde"));
+                    } else {
+                        document.querySelectorAll("div").forEach((t) => t.classList.remove("esconde"));
+                    }
+                });
+            }
+        </script>
+    </body>
+</html>

@@ -52,7 +52,7 @@ Nuestro horario de clases: **Miércoles en módulos 3 y 4, esto es entre 11:00 y
 
 [Clase 04 → 28/08/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-04) → Conociendo y comprendiendo otras bibliotecas de JS (Semana Universitaria; durante esta semana no se efectuarán evaluaciones académicas) ✓
 
-[Clase 05 → 04/09/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-05) → Aplicando HTML5, CSS3 y otras bibliotecas de JS
+[Clase 05 → 04/09/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-05) → Aplicando HTML5, CSS3 y otras bibliotecas de JS ✓
 
 [Clase 06 → 11/09/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-06) → Aplicando HTML5, CSS3 y JS sin bibliotecas
 

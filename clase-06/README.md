@@ -82,7 +82,7 @@ async function astros() {
 astros().catch((error) => console.error(error));
 ```
 
-Aquí aparece el `asyn`, que conviene revisar en [MDN web docs]( https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/async_function#descripci%C3%B3n)
+Aquí aparece el `async`, que conviene revisar en [MDN web docs]( https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/async_function#descripci%C3%B3n)
 
 - - - - - - -
 

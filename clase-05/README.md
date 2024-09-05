@@ -63,6 +63,8 @@ Partamos desde acá: https://profesorfaco.github.io/dno096-2024/clase-05/
 
 Y sigamos con esto: https://raw.githubusercontent.com/profesorfaco/dno096-2024/main/clase-05/datos.json
 
+Los resultados deben ser ingresados antes de las 23.59 hrs. de hoy, miércoles 28 de agosto, al foro en: https://cursos.canvas.uc.cl/courses/80331/discussion_topics/861984
+
 - - - - - - - -
 
 ###### [← CLASE ANTERIOR](https://github.com/profesorfaco/dno096-2024/tree/main/clase-04) — [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno096-2024/tree/main/clase-06)

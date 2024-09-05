@@ -48,54 +48,41 @@ En el código tenemos una estructura reconocible: ¡Es una página `.html`!
 
 Pero incluye algo extraño: `{{ message }}`, que en su carga es reemplazado por un `¡Hola Vue.js!`, que es un texto que allí es "montado" como si se tratara de una aplicación (ver: [`createApp`](https://vuejs.org/guide/essentials/application.html#the-root-component), [`mount()`](https://vuejs.org/guide/essentials/application.html#mounting-the-app)). 
 
-Y así de extraño puede ser el uso de una `{{frase típica}}` de cualquier dialecto.
+Pero no queremos desarrollar aplicaciones web. Por ahora será suficiente *desarrollar, de manera autónoma, su primer sitio web profesional o prototipo avanzado de aplicación web*. Por eso sólo basta con referir a los "frameworks", para no confudirlos con "libraries". 
 
-Piense, por ejemplo, en la pregunta `{{cómo cancela}}` frente al hablante de castellano que no es chileno: *¡No, yo no quiero cancelar, quiero pagar lo que he consumido!*.  
-
-Enfrentar el dialecto "chileno" con el "castellano actual" es una analogía que sirve para explicar el problema de usar *libraries* o *frameworks* de JavaScript antes que el "JavaScript a secas", analogía que se puede extender de la siguiente manera: 
-
-El chileno se entiende en Chile. El argentino en Argetina. El mexicano se entienden en toda Hisponoamérica por el peso de sus empresas traductoras y televisivas. Pero lo que diga un castellano (del centro de España) debería ser entendido por chilenos, argentinos y mexicanos. 
-
-Al alemán, inglés o italiano, le vendría mejor aprender castellano antes que chileno, argentino o mexicano, para moverse por Chile, Argentina, México y/o España sin mayores problemas.
-
-Como la posición del curso frente a JavaScript se parece más a la de alemanes, ingleses o italianos frente al castellano, conviene comenzar a explorar JavaScript a secas, sin *libraries* ni *frameworks*.
+Por lo pronto, vamos a empezar a avanzar en el trabajo en JavaScript independiente de p5.js, ml5.js, jQuery u otras.
 
 #### Fetch()
 
-En la práctica **haremos *fetch* de un JSON y una API**. 
+En la práctica **hemos trabajando con un JSON y una API. Lo hicimos con la ayuda de jQuery. Ahora lo haremos sin bibliotecas de Javascript.**
 
-**Pero no lo haremos con la ayuda de p5.js ni jQuery. Lo haremos sin bibliotecas de Javascript.**
-
-Para explorar el JavaScript más estándar, sin bibliotecas, avanzaremos al [uso de `fetch()`](https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch). 
+Para comenzar a trabajar con el JavaScript estándar más reciente, y sin bibliotecas, partiremos con el [`fetch()`](https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch). 
 
 Para comprender el uso del `fetch()`, es recomedable tomarse 32 minutos para ver dos videos de Daniel Shifmann:
 
 - [fetch() - Working With Data & APIs in JavaScript](https://youtu.be/tc8DU14qX6I)
 - [JSON - Working with Data and APIs in JavaScript](https://youtu.be/uxf0--uiX0I) 
 
-En lo preparadao para la práctica:
+Si la clase pasada fuimos a buscar un JSON de esta manera:
 
-El `fetch()` del JSON será muy sencillo, porque usa algo que está en la carpeta de esta clase:  
-  
 ```
-async function una() {
-    const consulta = await fetch("https://raw.githubusercontent.com/profesorfaco/dno037-2023-2/main/clase-06/ciudades.json");
+$.getJSON("https://raw.githubusercontent.com/profesorfaco/dno096-2024/main/clase-05/datos.json", function (data) {
+    console.log(data);
+});
+```
+
+En la clase de hoy lo iremos a buscar de esta otra:
+
+```
+async function astros() {
+    const consulta = await fetch("https://raw.githubusercontent.com/profesorfaco/dno096-2024/main/clase-05/datos.json");
     const data = await consulta.json();
     console.log(data);
 }
-una().catch((error) => console.error(error));
+astros().catch((error) => console.error(error));
 ```
 
-El `fetch()` de la API nos exigirá un poco más, porque el uso de [Current Weather Data](https://openweathermap.org/current) requiere la definición de algunos parámetros y una autentificación con una API Key (que cualquier persona puede generar siendo [*user*](https://home.openweathermap.org/users/sign_in) de OpenWeather).
-
-```
-async function otra() {
-    const consulta = await fetch("https://api.openweathermap.org/data/2.5/weather?q={city name},{country code}&appid={API key}");
-    const data = await consulta.json();
-    console.log(data);
-}
-otra().catch((error) => console.error(error));
-```
+Aquí aparece el `asyn`, que conviene revisar en [MDN web docs]( https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/async_function#descripci%C3%B3n)
 
 - - - - - - -
 

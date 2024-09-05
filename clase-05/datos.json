@@ -56,6 +56,13 @@
         "github": "https://github.com/conyln"
     },
     {
+        "nombre": "Fernanda Mamani",
+        "fecha": "2010-09-19",
+        "signo": "virgo",
+        "foto": "https://apod.nasa.gov/apod/image/1009/carinablue_hst.jpg",
+        "github": "https://github.com/nandaamc"
+    },
+    {
         "nombre": "Kimberly McCartney",
         "fecha": "2001-02-16",
         "signo": "acuario",
@@ -103,6 +110,13 @@
         "signo": "tauro",
         "foto": "https://apod.nasa.gov/apod/image/2404/CometTriple_Casado_1080.jpg",
         "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "Florencia Rodríguez",
+        "fecha": "2023-06-30",
+        "signo": "cancer",
+        "foto": "https://apod.nasa.gov/apod/image/2306/phas_jpl_960.jpg",
+        "github": "https://github.com/florencia-rz"
     },
     {
         "nombre": "Benjamín Rodríguez",

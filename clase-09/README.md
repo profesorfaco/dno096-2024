@@ -2,7 +2,7 @@
 
 # Evaluación Nº2
 
-Pendiente.
+Se viene el primero portafolio.
 
 - - - - - - - - - - - - -
 

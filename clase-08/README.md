@@ -4,7 +4,7 @@
 
 ### Teoría (para la casa)
 
-Pendiente.
+Ver teoría de la [clase recién pasada](https://github.com/profesorfaco/dno096-2024/tree/main/clase-06)
 
 - - - - - - -
 

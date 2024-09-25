@@ -88,7 +88,7 @@ Aquí aparece el `async`, que conviene revisar en [MDN web docs]( https://develo
 
 ### Práctica
 
-Pendiente.
+Partamos desde acá: https://profesorfaco.github.io/dno096-2024/clase-06/
 
 - - - - - - - - - - - -
 

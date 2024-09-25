@@ -54,9 +54,9 @@ Nuestro horario de clases: **Miércoles en módulos 3 y 4, esto es entre 11:00 y
 
 [Clase 05 → 04/09/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-05) → Aplicando HTML5, CSS3 y otras bibliotecas de JS ✓
 
-[Clase 06 → 11/09/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-06) → Aplicando HTML5, CSS3 y JS sin bibliotecas
+[Clase 06 → 11/09/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-06) → Aplicando HTML5, CSS3 y JS sin bibliotecas ✓
 
-Clase 07 → 18/09/2024 → Receso de docencia bimestral (Se suspenden las clases; las evaluaciones académicas quedarán suspendidas entre el lunes 16 y el lunes 23 de septiembre).
+Clase 07 → 18/09/2024 → Receso de docencia bimestral (Se suspenden las clases; las evaluaciones académicas quedarán suspendidas entre el lunes 16 y el lunes 23 de septiembre) ✓
 
 [Clase 08 → 25/09/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-08) → Aplicando HTML5, CSS3 y JS sin bibliotecas
 

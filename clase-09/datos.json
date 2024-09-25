@@ -1,0 +1,92 @@
+[
+    {
+        "nombre": "Indumentaria Bauhaus",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2023",
+        "signo": "vestuario",
+        "foto": "https://picsum.photos/id/460/300/300",
+        "fotos":"https://picsum.photos/id/460/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Piso de carpintero",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2022",
+        "signo": "industrial",
+        "foto": "https://picsum.photos/id/464/300/300",
+        "fotos": "https://picsum.photos/id/464/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Infografía informativa",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2021",
+        "signo": "visual",
+        "foto": "https://picsum.photos/id/442/300/300",
+        "fotos": "https://picsum.photos/id/442/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Juguete de chimpancé",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2023",
+        "signo": "industrial",
+        "foto": "https://picsum.photos/id/96/300/300",
+        "fotos": "https://picsum.photos/id/96/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Lámpara luminosa",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2021",
+        "signo": "industrial",
+        "foto": "https://picsum.photos/id/158/300/300",
+        "fotos": "https://picsum.photos/id/158/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Póster de película",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2024",
+        "signo": "visual",
+        "foto": "https://picsum.photos/id/180/300/300",
+        "fotos": "https://picsum.photos/id/180/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Skate muy cool",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2022",
+        "signo": "industrial",
+        "foto": "https://picsum.photos/id/157/300/300",
+        "fotos": "https://picsum.photos/id/157/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Objeto didáctico",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2021",
+        "signo": "industrial",
+        "foto": "https://picsum.photos/id/252/300/300",
+        "fotos": "https://picsum.photos/id/252/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Cosito para un deporte",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2022",
+        "signo": "industrial",
+        "foto": "https://picsum.photos/id/357/300/300",
+        "fotos": "https://picsum.photos/id/357/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Libro infantil",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2024",
+        "signo": "visual",
+        "foto": "https://picsum.photos/id/326/300/300",
+        "fotos": "https://picsum.photos/id/326/900/600",
+        "github": "https://github.com/profesorfaco"
+    }
+]

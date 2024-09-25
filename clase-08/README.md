@@ -10,8 +10,7 @@ Ver teoría de la [clase recién pasada](https://github.com/profesorfaco/dno096-
 
 ### Práctica
 
-Pendiente.
-
+Partamos desde la misma base de la clase recién pasada: https://profesorfaco.github.io/dno096-2024/clase-06/
 
 - - - - - - - - - - - - -
 

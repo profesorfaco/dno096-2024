@@ -2,7 +2,7 @@
 
 # Evaluación Nº2
 
-Se viene el primero portafolio.
+Se viene el primer portafolio.
 
 - - - - - - - - - - - - -
 

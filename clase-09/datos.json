@@ -4,8 +4,8 @@
         "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
         "fecha": "2023",
         "signo": "vestuario",
-        "foto": "https://picsum.photos/id/460/300/300",
-        "fotos":"https://picsum.photos/id/460/900/600",
+        "foto": "https://picsum.photos/id/447/300/300",
+        "fotos":"https://picsum.photos/id/447/900/600",
         "github": "https://github.com/profesorfaco"
     },
     {
@@ -13,8 +13,8 @@
         "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
         "fecha": "2022",
         "signo": "industrial",
-        "foto": "https://picsum.photos/id/464/300/300",
-        "fotos": "https://picsum.photos/id/464/900/600",
+        "foto": "https://picsum.photos/id/137/300/300",
+        "fotos": "https://picsum.photos/id/137/900/600",
         "github": "https://github.com/profesorfaco"
     },
     {
@@ -85,8 +85,8 @@
         "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
         "fecha": "2024",
         "signo": "visual",
-        "foto": "https://picsum.photos/id/326/300/300",
-        "fotos": "https://picsum.photos/id/326/900/600",
+        "foto": "https://picsum.photos/id/146/300/300",
+        "fotos": "https://picsum.photos/id/146/900/600",
         "github": "https://github.com/profesorfaco"
     }
 ]

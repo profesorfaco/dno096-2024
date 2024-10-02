@@ -22,6 +22,8 @@ El primer portafolio: https://profesorfaco.github.io/dno096-2024/clase-09/
 
 **Si suman los puntos referidos se obtiene nota 7.0 (o quizá 7.25)**
 
+Para entregar, tiene hasta las 13.30 hrs. para ingresar su dirección en el foro: https://cursos.canvas.uc.cl/courses/80331/discussion_topics/876603
+
 
 - - - - - - - - - - - - -
 

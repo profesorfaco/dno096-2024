@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>📂 NOMBRE APELLIDO</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <header>
+            <h1></h1>
+            <a href="index.html">‹ Volver al Portafolio de Diseño</a>
+        </header>
+
+        <main></main>
+
+        <script>
+            //vamos a buscar un dato
+
+            var x = new URLSearchParams(window.location.search).get("data");
+
+            const autoria = document.querySelector("h1");
+
+            autoria.innerHTML = "NOMBRE APELLIDO";
+
+            const principal = document.querySelector("main");
+
+            const seleccion = document.querySelector("select");
+
+            //acá voy por el JSON
+
+            async function astros() {
+                const consulta = await fetch("https://raw.githubusercontent.com/profesorfaco/dno096-2024/refs/heads/main/clase-09/datos.json");
+                const data = await consulta.json();
+                console.log(data);
+
+                if (x) {
+                    principal.innerHTML += `<h2>${data[x].nombre}</h2><p>${data[x].fecha}</p><p>${data[x].descripcion}</p><img src="${data[x].fotos}">`;
+                } else {
+                    window.location.href = "index.html";
+                }
+            }
+            astros().catch((error) => console.error(error));
+        </script>
+    </body>
+</html>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>📂 NOMBRE APELLIDO</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <header>
+            <h1></h1>
+            <select>
+                <option value="todos">Portafolio de Diseño</option>
+                <option value="vestuario">Portafolio de Diseño de Vestuario</option>
+                <option value="industrial">Portafolio de Diseño Industrial</option>
+                <option value="visual">Portafolio de Diseño Visual</option>
+            </select>
+        </header>
+
+        <main></main>
+
+        <aside>
+            <a href="about.html">SOBRE MI</a>
+        </aside>
+
+        <script>
+            //unas variables que no varían, que son constantes:
+
+            const nombre = "NOMBRE APELLIDO";
+
+            const autoria = document.querySelector("h1");
+
+            autoria.innerHTML = nombre;
+
+            const principal = document.querySelector("main");
+
+            const seleccion = document.querySelector("select");
+
+            //acá voy por el JSON
+
+            async function astros() {
+                const consulta = await fetch("https://raw.githubusercontent.com/profesorfaco/dno096-2024/refs/heads/main/clase-09/datos.json");
+                const data = await consulta.json();
+                console.log(data);
+
+                data.forEach((d, i) => (principal.innerHTML += `<div class="${d.signo}"><img src="${d.foto}" title="${d.fecha}"><p><a href="single.html?data=${i}">${d.nombre}</a></p>`));
+
+                seleccionables();
+            }
+
+            astros().catch((error) => console.error(error));
+
+            //lo que sigue es una función que ejecuto dentro de astros()
+
+            var valor;
+
+            function seleccionables() {
+                seleccion.addEventListener("change", (e) => {
+                    document.querySelectorAll("div").forEach((t) => t.classList.add("esconde"));
+                    valor = e.target.value;
+                    if (valor !== "todos") {
+                        document.querySelectorAll(`.${valor}`).forEach((t) => t.classList.remove("esconde"));
+                    } else {
+                        document.querySelectorAll("div").forEach((t) => t.classList.remove("esconde"));
+                    }
+                });
+            }
+        </script>
+    </body>
+</html>

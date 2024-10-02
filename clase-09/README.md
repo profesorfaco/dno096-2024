@@ -2,7 +2,9 @@
 
 # Evaluación Nº2
 
-Se viene el primer portafolio.
+Se viene el primer portafolio: https://profesorfaco.github.io/dno096-2024/clase-09/
+
+
 
 - - - - - - - - - - - - -
 

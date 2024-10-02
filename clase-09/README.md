@@ -20,7 +20,7 @@ El primer portafolio: https://profesorfaco.github.io/dno096-2024/clase-09/
 
 - Punto base con los ejercicios de las 4 clases más recientes [0.25 es el máximo en cada ejercicio; con la excepción del 11 de septiembre, donde hubo unos pocos 0.5]
 
-**Si suman los puntos referidos se obtiene nota 7.0 (o quizá 7.5)**
+**Si suman los puntos referidos se obtiene nota 7.0 (o quizá 7.25)**
 
 
 - - - - - - - - - - - - -

@@ -17,7 +17,7 @@ El desafio es el siguiente:
 | 0.5 | Tanto en la portada (`index.html`) como en el detalle individual (`single.html`) se despliega un “about” al modo del [Album Example](https://getbootstrap.com/docs/5.3/examples/album/) | 
 | 0.5 | Tanto en la portada (`index.html`) como en el detalle individual (`single.html`) se usa un segundo estilo (style.css) que ajusta algunas [variables CSS que ofrece Bootstrap](https://getbootstrap.com/docs/5.3/customize/css-variables/) |
 | 0.5 | Ejercicio de clase 10 |
-| 0.5 | Ejercicio de clase 11 y 12 |
+| 0.5 | Ejercicio de clases 11 y 12 |
 
 
 Tiene hasta el final de la clase para dejar su comentario en el foro de canvas: https://cursos.canvas.uc.cl/courses/80331/discussion_topics/894153

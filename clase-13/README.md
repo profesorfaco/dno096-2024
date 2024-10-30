@@ -6,7 +6,7 @@ El desafio es el siguiente:
 
 | Pto. | Instrucción |
 |:------:|:------------|
-| 1.0 | Prepara el JSON (`data.json`) para que muestre descripciones e imágenes sobre un tema particular, distinto de un portafolio de diseño | 
+| 1.0 | Prepara el JSON (`datos.json`) para que muestre descripciones e imágenes sobre un tema particular, distinto de un portafolio de diseño | 
 | 1.0 | El tema particular justifica en la portada el despliegue de 12 elementos distintos en portada (`index.html`), con la posibilidad de mostrar unos u otros mediante un selector. |
 | 0.5 |  El selector en portada (`index.html`) está operativo y ofrece al menos 3 opciones, contándose entre ellas una opción de mostrar todo. |
 | 0.5 |  Cada uno de los 12 elementos desplegado en portada (`index.html`) muestra una imagen única, que mantiene el formato de las demás (sean todas cuadradas, todas verticales o todas apaisadas en proporción de 4:3, 16:9, etc.) | 

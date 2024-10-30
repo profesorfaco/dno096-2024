@@ -15,7 +15,7 @@ El desafio es el siguiente:
 | 0.5 | Todas las imágenes en uso, sea en portada (`index.html`) o en el carrusel (del `single.html`), están en una misma carpeta del repositorio |
 | 0.5 | El peso de cada imagen en uso se cuida con el uso de la extensión que corresponde (acaso JPG, PNG o WebP), y el tamaño de ancho nunca superior a 1250 pixeles, con resolución de 72 dpi. Con ello cada una pesa menos de 400 KB | 
 | 0.5 | Tanto en la portada (`index.html`) como en el detalle individual (`single.html`) se despliega un “about” al modo del [Album Example](https://getbootstrap.com/docs/5.3/examples/album/) | 
-| 0.5 | Tanto en la portada (`index.html`) como en el detalle individual (`single.html`) se usa un segundo estilo (style.css) que ajusta algunas [variables CSS que ofrece Bootstrap](https://getbootstrap.com/docs/5.3/customize/css-variables/) |
+| 0.5 | Tanto en la portada (`index.html`) como en el detalle individual (`single.html`) se usa un segundo estilo (style.css) que ajusta algunas [CSS variables que ofrece Bootstrap](https://getbootstrap.com/docs/5.3/customize/css-variables/) |
 | 0.5 | Ejercicio de clase 10 |
 | 0.5 | Ejercicio de clases 11 y 12 |
 

@@ -68,7 +68,7 @@ Clase 07 → 18/09/2024 → Receso de docencia bimestral (Se suspenden las clase
 
 [Clase 12 → 23/10/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-12) → Aplicando Bootstrap v5.3 ✓
 
-**[Clase 13 → 30/10/2023](https://github.com/profesorfaco/dno096-2024/tree/main/clase-13) → Evaluación Nº3**
+**[Clase 13 → 30/10/2023](https://github.com/profesorfaco/dno096-2024/tree/main/clase-13) → Evaluación Nº3 ✓**
 
 [Clase 14 → 06/11/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-14) → Diseño y desarrollo de su primer sitio web profesional o prototipo avanzado de aplicación web.
 

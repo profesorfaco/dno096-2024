@@ -2,6 +2,8 @@
 
 # Diseño y desarrollo de su primer sitio web profesional o prototipo avanzado de aplicación web.
 
+### Teoría (para la casa)
+
 Comenzaremos a trabajar en el **diseño y desarrollo, autónomo, de su primer sitio web profesional o prototipo avanzado de aplicación web**, atendiendo a una de las siguientes opciones: 
 
 1. Sitio web profesional, que debe implementarse en línea con un dominio propio. 
@@ -18,21 +20,19 @@ Comenzaremos a trabajar en el **diseño y desarrollo, autónomo, de su primer si
 
 :rotating_light: Antes de seguir :rotating_light: 
 
-Ver estos videos: 
-
-- [Cómo Configurar Tu Dominio Con GITHUB PAGES 2021 | Paso a Paso | Sin Morir en el Intento](https://youtu.be/rD8KoCn_nJc)
-
-- [Hosting gratuito con GitHub Pages y dominio personalizado](https://www.youtube.com/watch?v=nbUR1jzVI5g&t=328s)
-
-También leer: 
+Revisar este artículo:
 
 - [Configurar GitHub Pages para usar dominios.cl](https://ggerena.medium.com/configurar-github-pages-para-usar-dominios-cl-13c1a644699f)
 
-- [Reglamentación para el funcionamiento del Registro de Nombres del Dominio .CL](https://www.nic.cl/normativa/reglamentacion.html)
+Y ver estos videos: 
+
+- [Hosting gratuito con GitHub Pages y dominio personalizado](https://www.youtube.com/watch?v=nbUR1jzVI5g&t=328s)
+
+- [Hosting GRATIS con Dominio propio (Dominio Personalizado Github Pages)](https://www.youtube.com/watch?v=tzjl91RP_To)
 
 - - - - - - - - - - 
 
-#### Práctica
+### Práctica (para la clase)
 
 Hoy sólo tendrán que usar el **`README.md` de un repositorio final. Este repositorio ya no lleva el nombre de la clase**. 
 

@@ -72,13 +72,6 @@ Y para sacarle provecho al **uso de `README.md`**, apóyense en:
 
 Al finalizar la clase, ingrese la URL del README.md ya editado en el foro correspondiente.
 
-
-- - - - - - - 
-
-###### [← CLASE ANTERIOR](https://github.com/profesorfaco/dno037-2023-2/tree/main/clase-12) — [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno037-2023-2/tree/main/clase-15)
-
-
-
 - - - - - - - 
 
 ###### [← CLASE ANTERIOR](https://github.com/profesorfaco/dno096-2024/tree/main/clase-13) — [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno096-2024/tree/main/clase-15)

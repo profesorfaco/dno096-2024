@@ -4,7 +4,7 @@
 
 ### Teoría (para la casa)
 
-Comenzaremos a trabajar en el **diseño y desarrollo, autónomo, de su primer sitio web profesional o prototipo avanzado de aplicación web**, atendiendo a una de las siguientes opciones: 
+Comenzaremos a trabajar en el **diseño y desarrollo, autónomo, de su primer sitio web profesional o prototipo avanzado de aplicación web**, atendiendo a las siguientes condiciones: 
 
 1. Sitio web profesional, que debe implementarse en línea con un dominio propio. 
 

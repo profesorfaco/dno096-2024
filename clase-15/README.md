@@ -12,7 +12,15 @@ Corresponde revisar:
 
 - En algunos casos, conviene revisar los antecedentes (cuando es más efecto que diagramación lo que les llama la atención).
 
-Con eso revisado, se ingresa al foro. Y se sumará 1.0 para su cuarta nota y final.
+Con eso revisado, se ingresa al foro. 
+
+Hoy se sumará 1,0 para su cuarta nota y final, considerando:
+
+- 0,25 por dominio ya configurado.
+
+- 0,25 por un index.html que puede mostrar a los visitas el mensaje "en construcción" y a los robots toda la información definitiva en los metadatos.
+
+- 0,5 por el README.md 
 
 - - - - - - - 
 

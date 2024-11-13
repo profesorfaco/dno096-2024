@@ -8,7 +8,7 @@ Corresponde revisar:
 
 - Los 3 usuarios, con 2 extremos y 1 promedio (ver [Extremes and Mainstreams](https://www.designkit.org/methods/extremes-and-mainstreams.html))
 
-- Comenzar a preparar el código del `index.html`, cuidando las [Etiquetas meta y atributos que Google admite](https://developers.google.com/search/docs/crawling-indexing/special-tags?hl=es
+- Comenzar a preparar el código del `index.html`, cuidando las [Etiquetas meta y atributos que Google admite](https://developers.google.com/search/docs/crawling-indexing/special-tags?hl=es)
 
 - En algunos casos, conviene revisar los antecedentes (cuando es más efecto que diagramación lo que les llama la atención).
 

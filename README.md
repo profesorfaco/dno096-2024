@@ -70,7 +70,7 @@ Clase 07 → 18/09/2024 → Receso de docencia bimestral (Se suspenden las clase
 
 **[Clase 13 → 30/10/2023](https://github.com/profesorfaco/dno096-2024/tree/main/clase-13) → Evaluación Nº3 ✓**
 
-[Clase 14 → 06/11/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-14) → Diseño y desarrollo de su primer sitio web profesional o prototipo avanzado de aplicación web.
+[Clase 14 → 06/11/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-14) → Diseño y desarrollo de su primer sitio web profesional o prototipo avanzado de aplicación web. ✓
 
 [Clase 15 → 13/11/2024](https://github.com/profesorfaco/dno096-2024/tree/main/clase-15) → Diseño y desarrollo de su primer sitio web profesional o prototipo avanzado de aplicación web.
 

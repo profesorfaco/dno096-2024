@@ -12,9 +12,11 @@ Siguiendo con el desarrollo de su primer sitio web profesional o prototipo avanz
 
 - 0,25 por la calidad de lo implementado en relación con los referentes en su README.md
 
-El punto se sumará a lo que ya ha podido acumular (revise columna ACUMULADO PARA NOTA 4 en documento [NOTA-3-Y-ADELANTO-DE-PROMEDIO.pdf en Canvas UC](https://cursos.canvas.uc.cl/courses/80331/files/11468778?module_item_id=2353528)). Al sumarse el punto por la clase de hoy: El acumulado alcanzará un máximo de 3.0. 
+El punto por el avance de hoy se sumará a lo que ya ha podido acumular (revise columna ACUMULADO PARA NOTA 4 en documento [NOTA-3-Y-ADELANTO-DE-PROMEDIO.pdf en Canvas UC](https://cursos.canvas.uc.cl/courses/80331/files/11468778?module_item_id=2353528)). 
 
-A esos 3 se agregarán 4.0 más la próxima clases, dependiendo del resultado en rendimiento, accesibilidad, recomendaciones y SEO que entregue https://pagespeed.web.dev/
+Al sumarse este punto: El acumulado alcanzará un máximo de 3.0. 
+
+A esos 3.0 se agregarán 4.0 más la próxima clases, dependiendo del resultado en rendimiento, accesibilidad, recomendaciones y SEO que entregue https://pagespeed.web.dev/
 
 - - - - - - - 
 

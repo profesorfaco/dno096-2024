@@ -90,9 +90,7 @@ La relación de pre-evaluación y evaluación es similar a la relación de entre
 
 **25%** → puntos acumulados como punto base + puntaje obtenido en evaluación Nº2
 
-**25%** → puntos acumulados como punto base + puntaje obtenido en evaluación Nº3
-
-**25%** → puntos acumulados como punto base + puntaje obtenido en evaluación Nº4
+**50%** → puntos acumulados como punto base + puntaje obtenido en evaluación Nº3
 
 **Al aprobar el optativo, cada estudiante podrá desarrollar, de manera autónoma, su primer sitio web profesional o prototipo avanzado de aplicación web**.
 

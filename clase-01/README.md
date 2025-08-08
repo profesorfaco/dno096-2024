@@ -1,6 +1,6 @@
 ### Introducción al desarrollo web desde el diseño → Clase 01 → 07/08/2024
 
-# Conociendo dos lenguajes y una biblioteca: HTML5, CSS3 y p5.js
+# Conociendo el optativo y sus temas.
 
 ### Teoría (para la casa)
 
@@ -8,7 +8,7 @@ Escribir "código fuente" implica describir y/o programar.
 
 Para reconocer los lenguajes de descripción y programación que son claves para el desarollo de sitios web profesionales o prototipos avanzados de aplicaciones web, trabajaremos con un editor de código fuente ([Sublime Text](https://www.sublimetext.com/) o [Phoenix Code Editor](https://phcode.dev/)).
 
-El editor de código fuente nos darán indicaciones para poder describir y/o programar respuesta a las siguientes preguntas, cada una con un lenguaje distinto:
+El editor de código fuente nos dará indicaciones para poder describir y/o programar respuesta a las siguientes preguntas, cada una con un lenguaje distinto:
 
 - **¿Qué es lo que contiene la página? Se responde con HTML (HyperText Markup Language)**. Lenguaje estándar que describe la estructura de las páginas web. HTML5 es la versión más reciente de este lenguaje. El bloque constructivo más básico del HTML es el elemento. Cada elemento de HTML se escribe, generalmente, entre etiquetas: `<etiqueta>contenido</etiqueta>` → Podemos complementar esta breve introducción a HTML con una revisión de la página: https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics
 
@@ -40,12 +40,8 @@ Alternativas tales como [p5.js](https://p5js.org/es/), una biblioteca (*library*
 
 ### Práctica (para la clase)
 
-En un `index.html` describimos un título de primer nivel y un párrafo, con cierto contenido (HTML) y en cierta ubicación (CSS). Y programamos un “fondo” sobre el que se puede dibujar (JavaScript simplificado con la biblioteca p5.js).
-
-Los resultados deben ser ingresados antes de las 23.59 hrs. de hoy, miércoles 7 de agosto, al foro en: https://cursos.canvas.uc.cl/courses/80331/discussion_topics/844230
-
-Si se cumple con el plazo y se atiende a la instrucciones del foro: Se obtienen 0,5 como base para la primera evaluación. 
+Pendiente.
 
 - - - - - - - 
 
-###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno096-2024/tree/main/clase-02)
+###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno096-2024/tree/main/clase-03)

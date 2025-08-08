@@ -1,6 +1,6 @@
 ### Introducción al desarrollo web desde el diseño → Clase 01 → 07/08/2024
 
-# Conociendo el optativo y sus temas.
+# Conociendo el optativo y sus temas
 
 ### Teoría (para la casa)
 
